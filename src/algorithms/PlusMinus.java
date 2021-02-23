@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PlusMinus {
 
-    // Complete the plusMinus function below
+    // Complete the plusMinus function below.
     static void plusMinus(int[] arr) {
     	int numberOfPositives = 0;
     	int numberOfNegatives = 0;
